@@ -1,0 +1,28 @@
+{
+  "name": "Flawless Telugu Repo",
+  "version": 2,
+  "icon": "https://i.imgur.com/8zFzBkX.png",
+  "plugins": [
+    {
+      "name": "iBOMMA",
+      "version": 3,
+      "file": "ibomma.kt",
+      "className": "iBOMMAPlugin",
+      "description": "Primary Telugu source - Movies & Series"
+    },
+    {
+      "name": "TeluguPalaka",
+      "version": 2,
+      "file": "telugupalaka.kt",
+      "className": "TeluguPalakaPlugin",
+      "description": "TV Shows + Movies with daily updates"
+    },
+    {
+      "name": "Moviezwap HD",
+      "version": 2,
+      "file": "moviezwap.kt",
+      "className": "MoviezwapPlugin",
+      "description": "HD Backup Source (1080p prioritized)"
+    }
+  ]
+}
